@@ -6,7 +6,7 @@ permalink: /essay-01.html
 
 {% include feature/nav-menu.html sections="Introduction;Conclusion;Notes" %}
 
-# My Essay Title
+# Impacts of Franklin Roosevelt's New Deal Programs on Local Economies
 
 ## Introduction
 
