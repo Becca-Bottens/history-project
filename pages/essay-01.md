@@ -10,9 +10,10 @@ permalink: /essay-01.html
 
 ## Introduction
 
-1.Price V. Fishback
-2.William C. Horrace
-3.Shawn Kantor
+1. Price V. Fishback
+2. William C. Horrace
+3. Shawn Kantor
+
 In the article *Did New Deal Grant Programs Stimulate Local Economies? A Study of Federal Grants and Retail Sales During the Great Depression,* explains that centerpieces of the **New Deal** consisted of contrasting impacts of effectiveness in relief and recovery efforts. They support these explanations by demonstrating how the New Deal offers a unique opportunity to learn how federal expenditures can influence local economies. With this their purpose is to examine how the programs influenced retail sales as a general measure of economic activity in order to understand the individual impacts of the New Deal during the Great Depression. The authors write in a formal tone for academics.
 [The Journal of Economics](https://www-jstor-org.uidaho.idm.oclc.org/stable/3875042?seq=1#metadata_info_tab_contents)
 
