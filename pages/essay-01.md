@@ -9,6 +9,8 @@ permalink: /essay-01.html
 # Impacts of Franklin Roosevelt's New Deal Programs on Local Economies
 ---
 
+{% include feature/image.html filename="state-of-the-union-1900-1945-trends.png" alt="agricultural trends from the state of the union addresses 1900-1945" caption="This is an image of agricultural trends used during State of the Union Addresses from 1900 to 1945." width="75" link="https://voyant-tools.org/?corpus=9ae4a745ccac7b5d79ef70622dbac3bb&query=government&query=congress&query=states&query=great&query=people&view=Trends" %}
+
 {% include feature/image.html filename="state-of-the-union-1900-1945.png" alt="image of a word cloud generated from state of the union address texts from the years 1900-1945" caption="This image is a word cloud generated from the State of the Union Addresses for years 1900 to 1945." width="75" link="https://voyant-tools.org/?corpus=9ae4a745ccac7b5d79ef70622dbac3bb&view=Cirrus" %}
 
 {% include feature/line-chart.html data="party-platforms-1900-1944-all" topic="Programs" %}
