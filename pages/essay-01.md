@@ -7,6 +7,7 @@ permalink: /essay-01.html
 {% include feature/nav-menu.html sections="Introduction;Conclusion;Notes" %}
 
 # Impacts of Franklin Roosevelt's New Deal Programs on Local Economies
+---
 
 {% include feature/line-chart.html data="party-platforms-1900-1944-all" topic="Programs" %}
 This graph interested me because its highest spikes are from Franklin Roosevelt, meaning that these words have a lot to do with the New Deal programs. This is what my essay topic is on so this graph pertains to my essay.[^1] 
