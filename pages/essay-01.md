@@ -4,7 +4,7 @@ layout: about
 permalink: /essay-01.html
 ---
 
-{% include feature/nav-menu.html sections="Introduction;Conclusion;Notes" %}
+{% include feature/nav-menu.html sections="Introduction;My First Subheading;Conclusion;Notes" %}
 
 # Impacts of Franklin Roosevelt's New Deal Programs on Local Economies
 ---
@@ -35,6 +35,8 @@ Font can be *Italic* or **Bold**.
 Citing your work is important! [^2]
 
 Title sections of your essay with headings, by adding a pound sign (`#`) in front of the title:
+
+### My First Subheading
 
 # Heading One
 
