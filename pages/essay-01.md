@@ -9,7 +9,7 @@ permalink: /essay-01.html
 # Impacts of Franklin Roosevelt's New Deal Programs on Local Economies
 
 {% include feature/line-chart.html data="party-platforms-1900-1944-all" topic="Programs" %}
-This graph interested me because its highest spikes are from Franklin Roosevelt, meaning that these words have a lot to do with the New Deal programs. This is what my essay topic is on so this graph pertains to my essay.
+This graph interested me because its highest spikes are from Franklin Roosevelt, meaning that these words have a lot to do with the New Deal programs. This is what my essay topic is on so this graph pertains to my essay.[^1] 
 
 ## Introduction
 
@@ -69,5 +69,7 @@ Include a pdf:
 More documentation on how to write your essay in Markdown--as well as how to include images, pdfs, and topic visualizations--can be found at <https://learn-static.github.io/hist-320/topic-modeling.html>.
 
 ## Notes
+
+[^1]: John D'Agata, ed., *The Making of the American Essay* (Minneapolis: Graywolf Press, 2016), 19-20.
 
 [^1]: Katie Kitamura, A Separation (New York: Riverhead Books, 2017), 25.
