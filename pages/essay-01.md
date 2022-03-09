@@ -51,15 +51,7 @@ Now, the pursuit of happiness, tends to be the most misconstrued and this is the
 
 In 1922, Herbert Hoover penned down his ideas of American Individualism. Individualism is the freedom to reason and act on one’s own accord to achieve one’s own goals.[^4] Now, along with this definition, we must also remember the meaning behind pursuit of happiness and not forget that we want to achieve something good without interfering with other’s rights. In his book, Hoover states that *individualism has been the primary force of American civilization*.[^5] He further said, *there will always be a frontier to conquer or to hold as long as men think, plan, and dare*.[^6] Often, when we hear the word frontier, we think of open prairie plains and expanding the west, but that is not the only frontier out there. The American Pioneer makes waves in all sorts of divisions in life. 
 
-----
-
-Include an image:
-
-{% include feature/image.html filename="demo_001.jpg" alt="image of UI Admin building" caption="Historic photo of the University of Idaho campus" width="50" %}
-
-Include a pdf:
-
-{% include feature/pdf.html filename="demo_002.pdf" caption="Historic postcard" width="50" %}
+In 1902 a woman named Mary Anderson was riding in a car in New York City while it was snowing and the driver had to periodically stop the car to clear the windshield.[^7] Upon arriving back home in Alabama, she put together a plan for a “window cleaning device” that looked much like what we use today and was powered from the inside of the car. The only difference was a manual hand crank.[^8] 
 
 ## Conclusion
 
@@ -67,17 +59,19 @@ More documentation on how to write your essay in Markdown--as well as how to inc
 
 ## Notes
 
-[^1]: Bill of Rights Institute, *Declaration of Independence (1776),* (Accessed Mar 8, 2022) {https://billofrightsinstitute.org/primary-sources/declaration-of-independence}
+[^1]: Bill of Rights Institute, *Declaration of Independence (1776),* (Accessed Mar 8, 2022) [Declaration of Independence](https://billofrightsinstitute.org/primary-sources/declaration-of-independence)
 
-[^2]: C-Span, *Interview with Ayn Rand,* Mar 7, 2022 (originally aired Jan 1, 1961, {https://www.c-span.org/video/?170069-1/interview-ayn-rand}
+[^2]: C-Span, *Interview with Ayn Rand,* Mar 7, 2022 (originally aired Jan 1, 1961, [Ayn Rand Interview](https://www.c-span.org/video/?170069-1/interview-ayn-rand)
 
 [^3]: Tom McHale, *The Practical Guide to the United States Constitution: A Historically Accurate and Entertaining Owner's Manual for the Founding Documents,* (South Carolina: IPG, 2020), 23
 
-[^4]: Quora, *What is American Individualism?,* (Accessed Mar 8, 2022) {https://www.quora.com/What-is-American-individualism}
+[^4]: Quora, *What is American Individualism?,* (Accessed Mar 8, 2022) [American Individualism](https://www.quora.com/What-is-American-individualism)
 
 [^5]: Herbert Hoover, *American Individualism,* (California: Hoover Institution Press, 2016), 51
 
 [^6]: Herbert Hoover, *American Individualism,* (California: Hoover Institution Press, 2016), 52
 
+[^7]: National Public Radio, *Alabama Woman Stuck In NYC Traffic In 1902 Invented The Windshield Wiper,* (Accessed Mar 9, 2022) [Windshield Wiper](https://www.npr.org/2017/07/25/536835744/alabama-woman-stuck-in-nyc-traffic-in-1902-invented-the-windshield-wiper)
 
+[^8]: All American Auto and Tire, *A Brief History of the Windshield Wiper,* (Accessed Mar 9, 2022), [Windshield Wiper History](https://allamericanautoandtire.com/blog/view/a-brief-history-of-the-windshield-wiper)
 
