@@ -49,22 +49,7 @@ Now, the pursuit of happiness, tends to be the most misconstrued and this is the
 
 ## Individualism Looks Like…
 
-Hyperlinks look like this [GitHub Help](https://help.github.com/).
-
-A bullet list is created using `*`, `+`, or `-`, like:
-
-- dog
-- cat
-- muffin
-
-A numbered list is created using a number + `.`, like:
-
-1. one
-2. two
-6. three
-2. four
-
-A horizontal line break can be useful for separating content:
+In 1922, Herbert Hoover penned down his ideas of American Individualism. Individualism is the freedom to reason and act on one’s own accord to achieve one’s own goals.[^4] Now, along with this definition, we must also remember the meaning behind pursuit of happiness and not forget that we want to achieve something good without interfering with other’s rights. In his book, Hoover states that *individualism has been the primary force of American civilization*.[^5] He further said, *there will always be a frontier to conquer or to hold as long as men think, plan, and dare*.[^6] Often, when we hear the word frontier, we think of open prairie plains and expanding the west, but that is not the only frontier out there. The American Pioneer makes waves in all sorts of divisions in life. 
 
 ----
 
@@ -87,5 +72,12 @@ More documentation on how to write your essay in Markdown--as well as how to inc
 [^2]: C-Span, *Interview with Ayn Rand,* Mar 7, 2022 (originally aired Jan 1, 1961, {https://www.c-span.org/video/?170069-1/interview-ayn-rand}
 
 [^3]: Tom McHale, *The Practical Guide to the United States Constitution: A Historically Accurate and Entertaining Owner's Manual for the Founding Documents,* (South Carolina: IPG, 2020), 23
+
+[^4]: Quora, *What is American Individualism?,* (Accessed Mar 8, 2022) {https://www.quora.com/What-is-American-individualism}
+
+[^5]: Herbert Hoover, *American Individualism,* (California: Hoover Institution Press, 2016), 51
+
+[^6]: Herbert Hoover, *American Individualism,* (California: Hoover Institution Press, 2016), 52
+
 
 
