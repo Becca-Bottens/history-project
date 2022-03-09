@@ -82,7 +82,7 @@ More documentation on how to write your essay in Markdown--as well as how to inc
 
 ## Notes
 
-[^1]: Bill of Rights Institute, *Declaration of Independence (1776),* {https://billofrightsinstitute.org/primary-sources/declaration-of-independence} (Accessed Mar 8, 2022)
+[^1]: Bill of Rights Institute, *Declaration of Independence (1776),* (Accessed Mar 8, 2022) {https://billofrightsinstitute.org/primary-sources/declaration-of-independence}
 
 [^2]: C-Span, *Interview with Ayn Rand,* Mar 7, 2022 (originally aired Jan 1, 1961, {https://www.c-span.org/video/?170069-1/interview-ayn-rand}
 
