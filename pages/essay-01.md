@@ -18,27 +18,18 @@ This graph interested me because its highest spikes are from Franklin Roosevelt,
 
 ---
 
-[GitHub Help](https://help.github.com/){:target="_blank" rel="noopener"}
 
 ## Introduction
 
-1. Price V. Fishback
-2. William C. Horrace
-3. Shawn Kantor
+	The late nineteenth century was a period of changes on a global scale which influenced political structures of the arriving twentieth century. Darwinism, Marxism, and the Industrial Revolution were newly emerging ideas and ways of life which influenced the people of the United States. With these new inventions and ways of thinking, the founding designs of our country started to blur into past and future notions. “Individual,” “collective,” and “for the greater good,” started mixing and intertwining in ways that our founding fathers never intended. 
+  
+  -Individualism
+  -Liberalism
+  -Objectivism
+  -Exceptionalism
+  
+  These are all views contained within the founding documents. The Declaration of Independence tells us of our unalienable rights, those that cannot be taken or given away. This is to say that we have rights to be independent and pursue our own achievements. Individualism and liberalism are more focused in the first half of the twentieth century while objectivism and exceptionalism were popping up around the 1960s. In essence, though, they contain the same aims of individual freedom just in a different uniform and under a new shell. These concepts, after the emergence of the above mentioned nineteenth century philosophical theories – Marxism and Darwinism, have been under attack since the beginning of the twentieth century forcing the United States citizens to question their own interpretations of freedom. Are we being selfish by continuing to hold fast to the original concepts centering the whole reason for the Revolutionary War? Or are we struggling as a country because these practices are of old and need to be eradicated? 
 
-In the article *Did New Deal Grant Programs Stimulate Local Economies? A Study of Federal Grants and Retail Sales During the Great Depression,* explains that centerpieces of the **New Deal** consisted of contrasting impacts of effectiveness in relief and recovery efforts. They support these explanations by demonstrating how the New Deal offers a unique opportunity to learn how federal expenditures can influence local economies. With this their purpose is to examine how the programs influenced retail sales as a general measure of economic activity in order to understand the individual impacts of the New Deal during the Great Depression. The authors write in a formal tone for academics.
-[The Journal of Economics](https://www-jstor-org.uidaho.idm.oclc.org/stable/3875042?seq=1#metadata_info_tab_contents)
-
-Here's some sample text, written in Markdown.
-In Markdown, any text with no empty lines between will become a paragraph.
-
-Leave an empty line between headings and paragraphs.
-
-Font can be *Italic* or **Bold**.
-
-Citing your work is important! [^2]
-
-Title sections of your essay with headings, by adding a pound sign (`#`) in front of the title:
 
 ### My First Subheading
 
