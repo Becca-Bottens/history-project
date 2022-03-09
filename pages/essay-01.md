@@ -33,10 +33,11 @@ The late nineteenth century was a period of changes on a global scale which infl
   
 These are all views contained within the founding documents. The Declaration of Independence tells us of our unalienable rights, those that cannot be taken or given away. This is to say that we have rights to be independent and pursue our own achievements. Individualism and liberalism are more focused in the first half of the twentieth century while objectivism and exceptionalism were popping up around the 1960s. In essence, though, they contain the same aims of individual freedom just in a different uniform and under a new shell. These concepts, after the emergence of the above mentioned nineteenth century philosophical theories – Marxism and Darwinism, have been under attack since the beginning of the twentieth century forcing the United States citizens to question their own interpretations of freedom. Are we being selfish by continuing to hold fast to the original concepts centering the whole reason for the Revolutionary War? Or are we struggling as a country because these practices are of old and need to be eradicated? 
 
+## Why the big words?
 
-### My First Subheading
+Individualism, liberalism, objectivism, and exceptionalism, big fancy tung tangling words, represent an independence, a freedom to choose, to reason with oneself, to be oneself without a governing body or higher authority stepping in to tell you what to do, how to do it, or when to do it. These concepts have received abounding backlash for over a century now. Arguments against these concepts have arisen in the wake of misunderstanding and taking out of context the core principles that construct these ideas. 
 
-# Heading One
+With respect, I would like to take a minute here and explain that Americans are by no means perfect. We have now spent a few hundred years working on and building a free world. We are human beings and we have made mistakes, some atrociously so. What I am not trying to say here is that these ideas explain or justify slavery or other oppressions as a matter of building America. No, just as we still have today, past patrons of this country have misused these ideas to make personal gains at the expense of others. This, however, is not the core principle that makes up these concepts that are meant to build the nation. Let us dive into these ideologies that make up this list of tung tangling words.
 
 ## Heading Two
 
