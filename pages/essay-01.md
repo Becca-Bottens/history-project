@@ -23,13 +23,13 @@ This graph interested me because its highest spikes are from Franklin Roosevelt,
 
 The late nineteenth century was a period of changes on a global scale which influenced political structures of the arriving twentieth century. Darwinism, Marxism, and the Industrial Revolution were newly emerging ideas and ways of life which influenced the people of the United States. With these new inventions and ways of thinking, the founding designs of our country started to blur into past and future notions. “Individual,” “collective,” and “for the greater good,” started mixing and intertwining in ways that our founding fathers never intended. 
   
--**Individualism**
+-###**Individualism**
 
--**Liberalism**
+-###**Liberalism**
 
--**Objectivism**
+-###**Objectivism**
 
--**Exceptionalism**
+-###**Exceptionalism**
   
 These are all views contained within the founding documents. The Declaration of Independence tells us of our unalienable rights, those that cannot be taken or given away. This is to say that we have rights to be independent and pursue our own achievements. Individualism and liberalism are more focused in the first half of the twentieth century while objectivism and exceptionalism were popping up around the 1960s. In essence, though, they contain the same aims of individual freedom just in a different uniform and under a new shell. These concepts, after the emergence of the above mentioned nineteenth century philosophical theories – Marxism and Darwinism, have been under attack since the beginning of the twentieth century forcing the United States citizens to question their own interpretations of freedom. Are we being selfish by continuing to hold fast to the original concepts centering the whole reason for the Revolutionary War? Or are we struggling as a country because these practices are of old and need to be eradicated? 
 
@@ -47,7 +47,7 @@ The Declaration of Independence, as everyone should know, states *that all men a
 
 Now, the pursuit of happiness, tends to be the most misconstrued and this is the center phrase for the above words. During an interview in 1961, Ayn Rand tells that the pursuit of happiness spoken of in the Declaration of Independence is not the same as what is thought of today. She says that pursuit is not an act of chasing, but rather an act of achieving and happiness is not an act of momentary pleasures or mindless self-indulgences, contrarily it is guiltless pride in what you have achieved.[^2]  How has this phrase been misconstrued? Pursuit of happiness does not mean borrowing your neighbor’s car for a joy ride and returning it with an empty tank of gas. The right to pursue happiness *cannot negatively impact the rights of others*.[^3] Yes, this phrase has been interpreted in favor of desires ever since the document was signed and throughout all of history, again we are human, imperfect. However, pursuit of happiness is being an individual, forging progress, and achieving a better life without hindering the next person’s own pursuit.
 
-### Heading Three, etc.
+## Individualism Looks Like…
 
 Hyperlinks look like this [GitHub Help](https://help.github.com/).
 
