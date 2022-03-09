@@ -6,7 +6,7 @@ permalink: /essay-01.html
 
 {% include feature/nav-menu.html sections="Introduction;My First Subheading;Conclusion;Notes" %}
 
-# Impacts of Franklin Roosevelt's New Deal Programs on Local Economies
+# Individualism, Liberalism, Objectivism, Exceptionalism: Building a Free America, Selfish or Pursuit of Happiness?
 ---
 
 {% include feature/image.html filename="state-of-the-union-1900-1945-trends.png" alt="agricultural trends from the state of the union addresses 1900-1945" caption="This is an image of agricultural trends used during State of the Union Addresses from 1900 to 1945." width="75" link="https://voyant-tools.org/?corpus=9ae4a745ccac7b5d79ef70622dbac3bb&query=government&query=congress&query=states&query=great&query=people&view=Trends" %}
