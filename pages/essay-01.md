@@ -38,7 +38,7 @@ With respect, I would like to take a minute here and explain that Americans are 
 
 The Declaration of Independence, as everyone should know, states *that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness*.[^1]
 
-
+{% include feature/image.html filename="declaration-of-independence.jpg" alt="An image of the original Declaration of Independence" caption="Declaration of Independence" link="https://www.archives.gov/files/founding-docs/declaration_of_independence_stone_630.jpg" %}
 
 Now, the pursuit of happiness, tends to be the most misconstrued and this is the center phrase for the above words. During an interview in 1961, Ayn Rand tells that the pursuit of happiness spoken of in the Declaration of Independence is not the same as what is thought of today. She says that pursuit is not an act of chasing, but rather an act of achieving and happiness is not an act of momentary pleasures or mindless self-indulgences, contrarily it is guiltless pride in what you have achieved.[^2]  How has this phrase been misconstrued? Pursuit of happiness does not mean borrowing your neighbor’s car for a joy ride and returning it with an empty tank of gas. The right to pursue happiness *cannot negatively impact the rights of others*.[^3] Yes, this phrase has been interpreted in favor of desires ever since the document was signed and throughout all of history, again we are human, imperfect. However, pursuit of happiness is being an individual, forging progress, and achieving a better life without hindering the next person’s own pursuit.
 
