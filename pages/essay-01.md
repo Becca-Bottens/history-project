@@ -17,7 +17,7 @@ permalink: /essay-01.html
 
 The late nineteenth century was a period of changes on a global scale which influenced political structures of the arriving twentieth century. Darwinism, Marxism, and the Industrial Revolution were newly emerging ideas and ways of life which influenced the people of the United States. With these new inventions and ways of thinking, the founding designs of our country started to blur into past and future notions. “Individual,” “collective,” and “for the greater good,” started mixing and intertwining in ways that our founding fathers never intended. 
   
-### -Individualism
+-**Individualism**
 
 ### -Liberalism
 
