@@ -19,11 +19,11 @@ The late nineteenth century was a period of changes on a global scale which infl
   
 -**Individualism**
 
-### -Liberalism
+-**Liberalism**
 
-### -Objectivism
+-**Objectivism**
 
-### -Exceptionalism
+-**Exceptionalism**
   
 These are all views contained within the founding documents. The Declaration of Independence tells us of our unalienable rights, those that cannot be taken or given away. This is to say that we have rights to be independent and pursue our own achievements. Individualism and liberalism are more focused in the first half of the twentieth century while objectivism and exceptionalism were popping up around the 1960s. In essence, though, they contain the same aims of individual freedom just in a different uniform and under a new shell. These concepts, after the emergence of the above mentioned nineteenth century philosophical theories – Marxism and Darwinism, have been under attack since the beginning of the twentieth century forcing the United States citizens to question their own interpretations of freedom. Are we being selfish by continuing to hold fast to the original concepts centering the whole reason for the Revolutionary War? Or are we struggling as a country because these practices are of old and need to be eradicated? 
 
