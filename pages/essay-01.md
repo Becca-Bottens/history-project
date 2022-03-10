@@ -65,6 +65,8 @@ Quoted in a article was an article published on June 4, 1955 in *The New Republi
 
 Ok so, pursuit of happiness. Is being an American, pursuing our own happiness in the sense of the founding fathers, selfish? My answer is a hard no. Again, please do not forget that we are all humans. We will make mistakes and yes sometimes do things for our own good. But the reality is that the leaders of this country are and have all been human as well. They have and continue to make mistakes. That is part of life, part of learning, and part of understanding our own reasons. Individualism is not an act of selfishness. Ultimately, it is an act of building a better future with pride. Liberalism, in the classical (founding fathers) sense, was an idea to better yourself and improve life. Wordings of the past have been misconstrued and misunderstood from their original meanings. If we leave our happiness in the hands of the government, then some voices will be drowned out even if their ideas will solve huge problems. 
 
+{% include feature/image.html filename="Until-next-time.jpg" alt="A funny of a therapist saying until next time" caption="Just a funny" width="50" link="https://andertoons.com/therapy/cartoon/7158/time-is-up-so-lets-bottle-that-all-back-up-until-next-week" %}
+
 ## Notes
 
 [^1]: Bill of Rights Institute, *Declaration of Independence (1776),* (Accessed Mar 8, 2022) [Declaration of Independence](https://billofrightsinstitute.org/primary-sources/declaration-of-independence)
