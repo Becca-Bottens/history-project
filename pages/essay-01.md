@@ -6,7 +6,7 @@ permalink: /essay-01.html
 
 {% include feature/nav-menu.html sections="Introduction;Why the Big Words?;What is Happiness?;Individualism Looks Like...;Which Liberalism;Concluding Thoughts;Notes" %}
 
-# Individualism, Liberalism, Objectivism, Exceptionalism: Building a Free America, Selfish or Pursuit of Happiness?
+# Individualism, Liberalism, Objectivism, Exceptionalism: Building a Free America - Selfish or Pursuit of Happiness?
 ---
 
 {% include feature/image.html filename="we-the-people-picture.jpg" alt="A picture of a rolled up Declaration of Independence with an American flag backdrop" width="75" link="https://www.istockphoto.com/photo/we-the-people-gm925022236-253851925" %}
