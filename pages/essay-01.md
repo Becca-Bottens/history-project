@@ -9,10 +9,9 @@ permalink: /essay-01.html
 # Individualism, Liberalism, Objectivism, Exceptionalism: Building a Free America, Selfish or Pursuit of Happiness?
 ---
 
-{% include feature/pdf.html filename="we-the-people-banner.pdf" caption="A picture of a rolled up Declaration of Independence overlaying an American flag." link="https://www.123rf.com/photo_96629332_we-the-people-with-american-flag-.html?vti=nlqla9mviiv0pbpyf9-1-9" %}
+{% include feature/image.html filename="we-the-people-picture.jpg" alt="A picture of a rolled up Declaration of Independence with an American flag backdrop" width="75" link="https://www.istockphoto.com/photo/we-the-people-gm925022236-253851925" %}
 
 ---
-
 
 ## Introduction
 
