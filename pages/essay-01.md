@@ -9,12 +9,7 @@ permalink: /essay-01.html
 # Individualism, Liberalism, Objectivism, Exceptionalism: Building a Free America, Selfish or Pursuit of Happiness?
 ---
 
-{% include feature/image.html filename="state-of-the-union-1900-1945-trends.png" alt="agricultural trends from the state of the union addresses 1900-1945" caption="This is an image of agricultural trends used during State of the Union Addresses from 1900 to 1945." width="75" link="https://voyant-tools.org/?corpus=9ae4a745ccac7b5d79ef70622dbac3bb&query=government&query=congress&query=states&query=great&query=people&view=Trends" %}
-
-{% include feature/image.html filename="state-of-the-union-1900-1945.png" alt="image of a word cloud generated from state of the union address texts from the years 1900-1945" caption="This image is a word cloud generated from the State of the Union Addresses for years 1900 to 1945." width="75" link="https://voyant-tools.org/?corpus=9ae4a745ccac7b5d79ef70622dbac3bb&view=Cirrus" %}
-
-{% include feature/line-chart.html data="party-platforms-1900-1944-all" topic="Programs" %}
-This graph interested me because its highest spikes are from Franklin Roosevelt, meaning that these words have a lot to do with the New Deal programs. This is what my essay topic is on so this graph pertains to my essay.
+{% include feature/pdf.html filename="we-the-people-banner.pdf" caption="A picture of a rolled up Declaration of Independence overlaying an American flag." link="https://www.123rf.com/photo_96629332_we-the-people-with-american-flag-.html?vti=nlqla9mviiv0pbpyf9-1-9" %}
 
 ---
 
