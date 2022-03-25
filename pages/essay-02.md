@@ -10,6 +10,8 @@ permalink: /essay-02.html
 
 ## Introduction
 
+{% include feature/image.html filename="Lynching-flyer.jpg" alt="An anti-lynching flyer promoting an anti-lynching bill in legislature 1922" caption="An anti-lynching flyer promoting an anti-lynching bill in legislature 1922." width="75" link="https://archive.org/details/LynchingD.D.TeoliJr.A.C.20" %}
+
 ## Conclusion
 
 ## Notes
