@@ -12,7 +12,7 @@ permalink: /essay-02.html
 
 ## NAACP Creation
 
-Springfield, Illinois August 14, 1908, two African American men were accused of assaulting two Euro-American women. These two men were subsequently jailed, and a mob came looking for the charged men. The jail-keeper did not allow this mob access to the accused. Unsatisfied with not gaining access, the mob targeted two other African American men that had not committed any crimes and lynched them in place of the two jailed men. Over the course of three days the mob, mostly Euro-Americans, destroyed African American owned businesses and homes. The Springfield Race Riot ran almost two thousand African American residents out of town and never returned.[^1]
+Springfield, Illinois August 14, 1908, two African American men, accused of assaulting two Euro-American women, found themselves incarcerated on these allegations. An unsatisfied mob wanted the charged men lynched. They approached the jail expecting the prisoners released so they could enact their own justice. The jail-keeper, however, refused them access. Enraged, the mob targeted two other African American men who had not committed any crimes and lynched them instead. Three days the mob ran amuck, mostly Euro-Americans, destroying African American owned businesses and homes. Almost two thousand African Americans vacated the town while the Springfield Race Riot occurred and never returned.[^1]
 
 {% include feature/image.html filename="Lynching-flyer.jpg" alt="A political flyer promoting an anti-lynching bill in legislature 1922" caption="A political flyer promoting an anti-lynching bill in legislature 1922." width="50" link="https://archive.org/details/LynchingD.D.TeoliJr.A.C.20" %}
 
