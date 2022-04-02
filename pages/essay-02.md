@@ -16,6 +16,8 @@ Springfield, Illinois August 14, 1908, two African American men, accused of assa
 
 {% include feature/image.html filename="Lynching-flyer.jpg" alt="A political flyer promoting an anti-lynching bill in legislature 1922" caption="A political flyer promoting an anti-lynching bill in legislature 1922." width="50" link="https://archive.org/details/LynchingD.D.TeoliJr.A.C.20" %}
 
+When looking back, early twentieth century lynching seems unorthodox. Oftentimes, we do not correlate lynching as a pre-1950s or 60s phenomenon because those riots impacted our understandings as media outlets made racial issues more widespread causing resonating images. Many times, people do not realize the 1960s Civil Rights campaign culminated because one hundred years later African Americans still encountered slave-like misery. However, lynching became a tolerated practice when slavery ended and continued throughout the early twentieth century. 
+
 ## Conclusion
 
 ## Notes
