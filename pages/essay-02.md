@@ -22,8 +22,16 @@ So, our 1908 lynching mob, denied accessing the prisoners who, so the story goes
 
 Late 1908 brought together sixty members fighting unbridled violent acts such as the August 14 scenario. Seven African Americans, including such names as W. E. B. Du Bois, Ida B. Wells-Barnett, and Mary Church Terrell, comprised those sixty members. The meeting issued a call discussing race-related justice. Their undertakings created the *National Association for the Advancement of Colored People* (NAACP). This organization set out to fight for and secure the rights given and guaranteed by the 13th, 14th, and 15th Amendments contained in the United States Constitution.[^2]
 
--•	Thirteenth Amendment: Section1:
+•	**Thirteenth Amendment:** Section1:
 Neither slavery nor involuntary servitude, except as a punishment for crime whereof the party shall have been duly convicted, shall exist within the United States, or any place subject to their jurisdiction.[^3]
+
+•	**Fourteenth Amendment:** Section 1:
+All persons born or naturalized in the United States, and subject to the jurisdiction thereof, are citizens of the United States and of the State wherein they reside. No State shall make or enforce any law which shall abridge the privileges or immunities of citizens of the United States; nor shall any State deprive any person of life, liberty, or property, without due process of law; nor deny to any person within its jurisdiction the equal protection of the laws.[^4]
+
+•	**Fifteenth Amendment:** Section 1: 
+The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of race, color, or previous condition of servitude.[^5]
+
+The NAACP believed in the rights embraced in the United States Constitution. They understood these rights meant for ALL citizens of the United States. Injustice throughout the country towards African Americans forced the NAACP to move forward by forming a collective to combat *justice for all*. The vision of the NAACP is to establish a society containing equal rights for all persons without racial hatred or discrimination. They work throughout the country certifying political, educational, social, and economic equality of all.[^6] The NAACP embarked on a mission against societal norms to educate citizens of their prejudices, injustices, and barriers created to keep the African Americans from progressing in the way the United States Constitution has afforded for them. Now, if we may, examine some examples, reasons, and ways the NAACP has grappled with these issues. 
 
 
 
@@ -38,3 +46,7 @@ This graph shows how public issues rose to its highest importance in 1972 and th
 [^1]: https://www.nps.gov/articles/illinois-1908-springfield-race-riot-archaeological-site.htm  Accessed 03/26/22
 [^2]: https://naacp.org/about/our-history  Accessed 03/17/22
 [^3]: https://www.archives.gov/milestone-documents/13th-amendment  Accessed 04/09/22
+[^4]: https://www.archives.gov/milestone-documents/14th-amendment  Accessed 04/09/22
+[^5]: https://www.archives.gov/milestone-documents/15th-amendment  Accessed 04/09/22
+[^6]: https://naacp.org/resources/naacp-constitution  Accessed 04/09/22
+
