@@ -41,6 +41,12 @@ This graph shows how public issues rose to its highest importance in 1972 and th
 
 ## Conclusion
 
+<blockquote class="blockquote pt-3 pb-5" style="font-size: 1.75rem; margin-left: auto; margin-right: auto; max-width: 650px;">
+  <p class="mb-0">History, despite its wrenching pain, Cannot be unlived, but if faced
+With courage, need not be lived again.</p>
+  <footer class="blockquote-footer text-right">Maya Angelou, <cite title="Source Title">On the Pulse of Morning</cite></footer>
+</blockquote>
+
 ## Notes
 
 [^1]: https://www.nps.gov/articles/illinois-1908-springfield-race-riot-archaeological-site.htm  Accessed 03/26/22
