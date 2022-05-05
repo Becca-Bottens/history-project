@@ -20,6 +20,7 @@ So, our 1908 lynching mob, denied accessing the prisoners who, so the story goes
 
 {% include feature/image.html filename="W.E.B.-DuBois-and-Staff-Editorial-Offices-of-the-Crisis-1912.jpg" alt="W.E.B. DuBois and staff in editorial office of the Crisis paper. 1912" caption="W.E.B. DuBois and staff in editorial office of the Crisis paper. 1912" width="50" link="https://www.blackpast.org/african-american-history/w-e-b-dubois-returning-soldiers-editorial-from-the-crisis-may-1919/" %}
 
+
 Late 1908 brought together sixty members fighting unbridled violent acts such as the August 14 scenario. Seven African Americans, including such names as W. E. B. Du Bois, Ida B. Wells-Barnett, and Mary Church Terrell, comprised those sixty members. The meeting issued a call discussing race-related justice. Their undertakings created the *National Association for the Advancement of Colored People* (NAACP). This organization set out to fight for and secure the rights given and guaranteed by the 13th, 14th, and 15th Amendments contained in the United States Constitution.[^2]
 
 •	**Thirteenth Amendment:** Section1:
