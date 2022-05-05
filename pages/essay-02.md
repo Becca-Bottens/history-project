@@ -53,7 +53,7 @@ In 1935 a new wave of anti-lynching legislature arose. Two Senators, Robert F. W
 
 
 
-{% include feature/image.html filename="school-segregation-crowd.jpg" alt="Fifteen year old Minnijean Brown Trickey, and African American young lady, walking to school through an angry crowd protesting desegregating schools." caption="Fifteen year old Minnijean Brown Trickey, and African American young lady, walking to school through an angry crowd protesting desegregating schools." width="50" link="https://www.theguardian.com/world/2017/sep/24/little-rock-arkansas-school-segregation-racism" %}
+{% include feature/image.html filename="school-segregation-crowd.jpg" alt="Fifteen year old Minnijean Brown Trickey, and African American young lady, walking to school through an angry crowd protesting desegregating schools." caption="Fifteen year old Minnijean Brown Trickey, and African American young lady, walking to school through an angry crowd protesting desegregating schools." width="75" link="https://www.theguardian.com/world/2017/sep/24/little-rock-arkansas-school-segregation-racism" %}
 
 ## Conclusion
 
