@@ -34,7 +34,7 @@ The right of citizens of the United States to vote shall not be denied or abridg
 
 The NAACP believed in the rights embraced in the United States Constitution. They understood these rights meant for ALL citizens of the United States. Injustice throughout the country towards African Americans forced the NAACP to move forward by forming a collective to combat *justice for all*. The vision of the NAACP is to establish a society containing equal rights for all persons without racial hatred or discrimination. They work throughout the country certifying political, educational, social, and economic equality of all.[^6] The NAACP embarked on a mission against societal norms to educate citizens of their prejudices, injustices, and barriers created to keep the African Americans from progressing in the way the United States Constitution has afforded for them. Now, if we may, examine some examples, reasons, and ways the NAACP has grappled with these issues. 
 
-{% include feature/image.html filename="Lynching-flyer.jpg" alt="A political flyer promoting an anti-lynching bill in legislature 1922" caption="A political flyer promoting an anti-lynching bill in legislature 1922" width="25" link="https://archive.org/details/LynchingD.D.TeoliJr.A.C.20" %}
+{% include feature/image.html filename="Lynching-flyer.jpg" alt="A political flyer promoting an anti-lynching bill in legislature 1922" caption="A political flyer promoting an anti-lynching bill in legislature 1922" width="50" link="https://archive.org/details/LynchingD.D.TeoliJr.A.C.20" %}
 
 ## Anti-Lynching and the NAACP
 
