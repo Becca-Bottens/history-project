@@ -48,11 +48,6 @@ How did the NAACP involve itself in the anti-lynching movement? As the new centu
 In 1935 a new wave of anti-lynching legislature arose. Two Senators, Robert F. Wagner from New York, and Edward Costigan from Colorado introduced a new bill, the Costigan-Wagner bill, to legalize prosecution of mob members and any public officials not protecting the victims. While this bill also did not become law, lynching received greater national attention thanks to these efforts.[^12] One interesting fact is that lynching was never deemed illegal the entirety of the twentieth century. While it was said to have been eliminated with the Civil Rights movement, there are some speculations that “accidental” deaths may have been an outcome of lynchers.
 
 
-{% include feature/image.html filename="Lynching-flyer.jpg" alt="A political flyer promoting an anti-lynching bill in legislature 1922" caption="A political flyer promoting an anti-lynching bill in legislature 1922." width="50" link="https://archive.org/details/LynchingD.D.TeoliJr.A.C.20" %}
-
-{% include feature/image.html filename="The-Crisis-1935-01.jpg" alt="Front page of The Crisis paper Jan 1935 showing NAACP picketing at National Crime Conference Dec 11, 1934." caption="Front page of The Crisis paper Jan 1935 showing NAACP picketing at National Crime Conference Dec 11, 1934." link="https://archive.org/details/sim_crisis_1935-01_42_1/page/n1/mode/2up" %}
-
-{% include feature/image.html filename="The-Crisis-1935-01-09.jpg" alt="Page 6 of The Crisis paper Jan 1935 depicting public preparing for a "Big Lynching."" caption="Page 6 of The Crisis paper Jan 1935 depicting public preparing for a "Big Lynching."" link="https://archive.org/details/sim_crisis_1935-01_42_1/page/n5/mode/2up" %}
 
 ## Conclusion
 
