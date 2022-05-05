@@ -34,6 +34,18 @@ The right of citizens of the United States to vote shall not be denied or abridg
 
 The NAACP believed in the rights embraced in the United States Constitution. They understood these rights meant for ALL citizens of the United States. Injustice throughout the country towards African Americans forced the NAACP to move forward by forming a collective to combat *justice for all*. The vision of the NAACP is to establish a society containing equal rights for all persons without racial hatred or discrimination. They work throughout the country certifying political, educational, social, and economic equality of all.[^6] The NAACP embarked on a mission against societal norms to educate citizens of their prejudices, injustices, and barriers created to keep the African Americans from progressing in the way the United States Constitution has afforded for them. Now, if we may, examine some examples, reasons, and ways the NAACP has grappled with these issues. 
 
+## Anti-Lynching and the NAACP
+
+Now, we have all heard the stories of lynching and seen the pictures. But how often do we read the full story? When we think of lynching maybe we think of an African American man standing on the ground with rope around his neck, looking guilty, about to be hoisted. Maybe we just see the ending picture of a man hanging. What happened during the terrifying moments before that? Did they just walk willingly? Were those being lynched always guilty? Was it only men as pictures show?
+
+(A word of caution for the next paragraph, you are about to read a nauseating situation.)
+May 19, 1918, in Brooks County, Georgia, Mary Turner, an eight months pregnant African American woman, was strung up by her feet from a tree, set on fire, and while still alive had her baby cut out of her and stomped on in front of her eyes. After this her lynchers riddled her with bullets.[^7] Mary committed no crime except speaking her mind. How and why did this happen to her? 
+
+A farmer named Hampton Smith would bail African Americans out of jail and make them work their time on his farm. He was known for mistreating these hires. Basically, a newfound modern-day slavery. One of the men bailed out of jail, Sidney Johnson, accused Mr. Smith of overworking him and ended up killing the farmer. Five other African American men were targeted with an accusation of conspiracy against Mr. Smith. One of these five men was a Mr. Hayes Turner. On May 18th the lynching mob, not local judicial systems who are the ones that should dole out punishment after a conviction of guilty, lynched this man because he worked with Mr. Johnson. Mrs. Turner, the next day, spoke her mind against the death of her husband. Because of this, she was taken right away to her horrifying fate.[^8] In one newspaper her hanging was justified because there was a gold watch “found” in her possession that was said to have belonged to the farmer, Mr. Smith, which then they said this indicated that the plot for killing Mr. Smith originated in her house.[^9]
+
+How did the NAACP involve itself in the anti-lynching movement? As the new century dawned, lynching showed no signs of slowing. The years 1901 to 1929 saw more than 1,200 African Americans lynched in the South. The two most violent states were Georgia and Mississippi carrying forty percent of that number.[^10] In 1916 the NAACP joined forces with the Anti-Lynching Crusaders. In 1922 they rallied behind the Dyer Anti-Lynching Bill which was meant to protect persons from mob assemblage and make lynching a punishable crime.[^11] While this bill was passed by the House of Representatives, it never made it out of the Senate. But this did not stop the NAACP from wanting justice. 
+
+In 1935 a new wave of anti-lynching legislature arose. Two Senators, Robert F. Wagner from New York, and Edward Costigan from Colorado introduced a new bill, the Costigan-Wagner bill, to legalize prosecution of mob members and any public officials not protecting the victims. While this bill also did not become law, lynching received greater national attention thanks to these efforts.[^12] One interesting fact is that lynching was never deemed illegal the entirety of the twentieth century. While it was said to have been eliminated with the Civil Rights movement, there are some speculations that “accidental” deaths may have been an outcome of lynchers.
 
 
 {% include feature/image.html filename="Lynching-flyer.jpg" alt="A political flyer promoting an anti-lynching bill in legislature 1922" caption="A political flyer promoting an anti-lynching bill in legislature 1922." width="50" link="https://archive.org/details/LynchingD.D.TeoliJr.A.C.20" %}
@@ -57,4 +69,10 @@ The NAACP believed in the rights embraced in the United States Constitution. The
 [^4]: https://www.archives.gov/milestone-documents/14th-amendment  Accessed 04/09/22
 [^5]: https://www.archives.gov/milestone-documents/15th-amendment  Accessed 04/09/22
 [^6]: https://naacp.org/resources/naacp-constitution  Accessed 04/09/22
+[^7]: https://calendar.eji.org/racial-injustice/may/19  Accessed 04/16/22
+[^8]: https://calendar.eji.org/racial-injustice/may/19  Accessed 04/16/22
+[^9]: Atlanta Semi-Weekly Journal (Atlanta, GA). “Negro Woman is Hanged by Brooks County Mob.” no. 68. May 21, 1918. https://chroniclingamerica.loc.gov/lccn/sn86090947/1918-05-21/ed-1/seq-1. Accessed 04/16/22
+[^10]: https://history.house.gov/Exhibitions-and-Publications/BAIC/Historical-Essays/Temporary-Farewell/Anti-Lynching-Legislation/. Accessed 03/25/22
+[^11]: https://naacp.org/find-resources/history-explained/legislative-milestones/dyer-anti-lynching-bill. Accessed 04/09/22
+[^12]: https://naacp.org/find-resources/history-explained/legislative-milestones/costigan-wagner-bill Accessed 04/30/22
 
