@@ -4,7 +4,7 @@ layout: about
 permalink: /essay-02.html
 ---
 
-{% include feature/nav-menu.html sections="Introduction;NAACP Creation;Anti-Lynching and the NAACP;Conclusion;Notes" %}
+{% include feature/nav-menu.html sections="Introduction;NAACP Creation;Anti-Lynching and the NAACP;NAACP and Brown v. Board of Education;Conclusion;Notes" %}
 
 # My Essay Title
 
@@ -56,6 +56,16 @@ In 1935 a new wave of anti-lynching legislature arose. Two Senators, Robert F. W
 
 {% include feature/image.html filename="school-segregation-crowd.jpg" alt="Fifteen year old Minnijean Brown Trickey, and African American young lady, walking to school through an angry crowd protesting desegregating schools." caption="Fifteen year old Minnijean Brown Trickey, and African American young lady, walking to school through an angry crowd protesting desegregating schools." width="100" link="https://www.theguardian.com/world/2017/sep/24/little-rock-arkansas-school-segregation-racism" %}
 
+## NAACP and Brown v. Board of Education
+
+Now, if we may, transition away from the lynching subject to another area where the NAACP placed their influence behind. Imagine with me, if you will, being an adolescent already struggling inside your own body with the changes that naturally occur and wondering why nature hates you. Now, imagine being a 1950s African American adolescent dealing with these changes on top of poverty, segregation, racial hatred, and wondering whether or not your school will have the proper supplies for you to get a good education. 
+
+In post-World War II America, a high school diploma became essential for many jobs. However, educational opportunities were uneven between African Americans and Caucasians. In the southern states, African American and even Hispanic children were mostly underfunded and segregated. Their schools were usually run down, overcrowded, and lacked libraries, gyms, and even indoor plumbing. Often times the majority of these children attended schools in rural areas where their parents worked the fields. These rural areas usually did not have high schools for them to even attempt to attain a diploma. This would then hinder them from getting better jobs and of course a college education.[^13]
+
+In 1896, the Plessy v. Ferguson case was approved in the Supreme Court which allowed segregation in schools so long as the educational opportunities were “approximately” the same. But, of course, most schools would find loopholes around this. On May 17, 1954, the Supreme Court ruled that racial segregation in schools violated the fourteenth amendment. There was a grouping of five different cases for the same thing under the name the Brown v. Board of Education of Topeka. The positive outcome of the Brown v. Board of Education case was the turning point in African American civil rights acknowledgements. This was the first major step in a different direction than previously accepted and sometimes is thought to be the beginning of the Civil Rights movement as well as the pivotal moment of destroying Jim Crow laws.[^14]
+
+So, how did the NAACP involve itself in the Brown v. Board of Education ruling? Since the 1930s, the NAACP had been working hard to end segregation. In 1933, an attorney, Nathan Margold, of the NAACP staff drafted a strategy to challenge segregation in education facilities. But at the time he knew this would not bode well with the public and the economic depression occurring at the same time put a damper on things as well. Highs and lows persisted in court cases through the 1930s and 40s until culminating into the Brown v. Board of Education cases. All cases used the segregation strategy with intentions of eliminating the “separate but equal” doctrine of Plessy v. Ferguson.[^15]
+
 ## Conclusion
 
 <blockquote class="blockquote pt-3 pb-5" style="font-size: 1.75rem; margin-left: auto; margin-right: auto; max-width: 650px;">
@@ -77,4 +87,7 @@ In 1935 a new wave of anti-lynching legislature arose. Two Senators, Robert F. W
 [^10]: History, Arts and Archives: United States House of Representatives, *Anti-Lynching Legislation Renewed,* (Accessed March 25, 2022) [Anti-Lynching Legislation](https://history.house.gov/Exhibitions-and-Publications/BAIC/Historical-Essays/Temporary-Farewell/Anti-Lynching-Legislation/)
 [^11]: NAACP, *Dyer Anti-Lynching Bill,* (Accessed April 9, 2022) [Dyer Bill](https://naacp.org/find-resources/history-explained/legislative-milestones/dyer-anti-lynching-bill)
 [^12]: NAACP, *Costigan-Wagner Bill,* (Accessed April 30, 2022) [Costigan-Wagner Bill](https://naacp.org/find-resources/history-explained/legislative-milestones/costigan-wagner-bill)
+[^13]: Gilmore, Glenda Elizabeth, and Thomas J. Sugrue, *Postwar Prosperity and Its Discontents,* “These United States: A Nation in the Making – 1890 to the Present,” (New York: W.W. Norton and Company, 2015), 353.
+[^14]: Encyclopedia Britannica, *Brown v. Board of Education,* (Accessed May 9, 2022) [Encyclopedia](https://www.britannica.com/event/Brown-v-Board-of-Education-of-Topeka) 
+[^15]: Cottrol, Robert J., Raymond T. Diamond, and Leland B. Ware, NAACP v. Jim Crow, “A Union of Professionals,” (Accessed May 9, 2022) [NAACP v. Jim Crow](https://www.aft.org/periodical/american-educator/summer-2004/naacp-v-jim-crow#:)
 
