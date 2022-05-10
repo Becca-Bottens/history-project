@@ -10,6 +10,8 @@ permalink: /essay-02.html
 
 ## Introduction
 
+The NAACP fought fiercely to safeguard constitutional rights for African Americans. 
+
 ## NAACP Creation
 
 Springfield, Illinois August 14, 1908, two African American men, accused of assaulting two Caucasian women, found themselves incarcerated on these allegations. An unsatisfied mob wanted the charged men lynched. They approached the jail expecting the prisoners released so they could enact their own justice. The jail-keeper, however, refused them access. Enraged, the mob targeted two other African American men who had not committed any crimes and lynched them instead. Three days the mob ran amuck, mostly Caucasians, destroying African American owned businesses and homes. Almost two thousand African Americans vacated the town while the Springfield Race Riot occurred and never returned.[^1]
