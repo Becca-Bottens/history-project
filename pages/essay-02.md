@@ -65,16 +65,16 @@ In 1935 a new wave of anti-lynching legislature arose. Two Senators, Robert F. W
 
 ## Notes
 
-[^1]: https://www.nps.gov/articles/illinois-1908-springfield-race-riot-archaeological-site.htm  Accessed 03/26/22
-[^2]: https://naacp.org/about/our-history  Accessed 03/17/22
-[^3]: https://www.archives.gov/milestone-documents/13th-amendment  Accessed 04/09/22
-[^4]: https://www.archives.gov/milestone-documents/14th-amendment  Accessed 04/09/22
-[^5]: https://www.archives.gov/milestone-documents/15th-amendment  Accessed 04/09/22
-[^6]: https://naacp.org/resources/naacp-constitution  Accessed 04/09/22
-[^7]: https://calendar.eji.org/racial-injustice/may/19  Accessed 04/16/22
-[^8]: https://calendar.eji.org/racial-injustice/may/19  Accessed 04/16/22
+[^1]: National Park Service, Illinois: 1908 Springfield Race Riot Archeology Site, (Accessed March 26, 2022) https://www.nps.gov/articles/illinois-1908-springfield-race-riot-archaeological-site.htm.
+[^2]: NAACP, Our Founders, (Accessed March 17, 2022) https://naacp.org/about/our-history.
+[^3]: National Archives, 13th Amendment of the U.S. Constitution: Abolition of Slavery (1865), (Accessed April 9, 2022) https://www.archives.gov/milestone-documents/13th-amendment.
+[^4]: National Archives, 14th Amendment of the U.S. Constitution: Civil Rights (1868), (Accessed April 9, 2022) https://www.archives.gov/milestone-documents/14th-amendment.
+[^5]: National Archives, 15th Amendment of the U.S. Constitution: Voting Rights (1870), (Accessed April 9, 2022) https://www.archives.gov/milestone-documents/15th-amendment.
+[^6]: NAACP, NAACP Constitution, (Accessed April 9, 2022) https://naacp.org/resources/naacp-constitution.
+[^7]: Eji, Mary Turner, Pregnant, Lynched in Georgia for Publicly Criticizing Husband’s Lynching, (Accessed April 16, 2022) https://calendar.eji.org/racial-injustice/may/19.
+[^8]: Eji, Mary Turner, Pregnant, Lynched in Georgia for Publicly Criticizing Husband’s Lynching, (Accessed April 16, 2022) https://calendar.eji.org/racial-injustice/may/19.
 [^9]: Atlanta Semi-Weekly Journal (Atlanta, GA). “Negro Woman is Hanged by Brooks County Mob.” no. 68. May 21, 1918. https://chroniclingamerica.loc.gov/lccn/sn86090947/1918-05-21/ed-1/seq-1. Accessed 04/16/22
-[^10]: https://history.house.gov/Exhibitions-and-Publications/BAIC/Historical-Essays/Temporary-Farewell/Anti-Lynching-Legislation/. Accessed 03/25/22
-[^11]: https://naacp.org/find-resources/history-explained/legislative-milestones/dyer-anti-lynching-bill. Accessed 04/09/22
-[^12]: https://naacp.org/find-resources/history-explained/legislative-milestones/costigan-wagner-bill Accessed 04/30/22
+[^10]: History, Arts and Archives: United States House of Representatives, Anti-Lynching Legislation Renewed, (Accessed March 25, 2022) https://history.house.gov/Exhibitions-and-Publications/BAIC/Historical-Essays/Temporary-Farewell/Anti-Lynching-Legislation/.
+[^11]: NAACP, Dyer Anti-Lynching Bill, (Accessed April 9, 2022) https://naacp.org/find-resources/history-explained/legislative-milestones/dyer-anti-lynching-bill.
+[^12]: NAACP, Costigan-Wagner Bill, (Accessed April 30, 2022) https://naacp.org/find-resources/history-explained/legislative-milestones/costigan-wagner-bill.
 
